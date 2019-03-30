@@ -5,4 +5,4 @@ This is a letter guessing game created using HTML and JavaScript. A user has cha
 
 This provides an example of simple code that targets HTML elements using JavaScript and manipulates them using the DOM.
 
-As for my background image, this pattern is downloaded from [SubtlePatters.com] (www.subtlepatterns.com).
+As for my background image, this pattern is downloaded from [SubtlePatters.com](www.subtlepatterns.com).
